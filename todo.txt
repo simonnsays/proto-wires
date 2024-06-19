@@ -1,0 +1,4 @@
+TODO:
+
+- Process of transferring items from shop to inv
+- Image rendering of Shop Items
